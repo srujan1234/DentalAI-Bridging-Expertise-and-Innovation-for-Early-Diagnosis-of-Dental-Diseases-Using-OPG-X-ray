@@ -11,4 +11,8 @@ As of today, I'm thrilled to share the exciting news we've made in our project j
 **DATE:** 02-11-23
 X-ray images – 339
 ---------------------
+**DATE:** 08-11-23
+Major Update: X-ray images – 657 with 107+ Annotations done to the images.
+
+------------------------------
 

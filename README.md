@@ -12,4 +12,6 @@ X-ray images – 339
 **DATE:** 08-11-23
 Major Update: X-ray images – 657 with 107+ Annotations done to the images.
 -------------------
+**DATE:** **01-02-23**
+X-ray images - 4519 Collected 
 
